@@ -9,7 +9,7 @@
 - Sử dụng AutoTouch để tự động hóa quá trình:
   - Đổi proxy mới cho mỗi profile.
   - Load profile backup từ XoaInfo thông qua URL Schemes.
-  - Tìm kiếm từ khóa ("Done") sau khi load và click hoàn thành.
+  - Tìm kiếm từ khóa và click theo yêu cầu.
 
 - Quản lý danh sách profile từ file `.txt` hoặc `.xlsx` trên thiết bị iOS.
 
